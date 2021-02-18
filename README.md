@@ -1,5 +1,5 @@
-# ADP-Cookbook
-# @Data Analytics Professional
+# DS-Cookbook
+# @Cookbook for Data Science
 
 0. R & Python
 
